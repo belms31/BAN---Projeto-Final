@@ -39,8 +39,8 @@ A aplicação implementa:
 * Menu interativo pelo terminal
  
 ### Tabelas usadas
-* Hospede
-* Funcionario
+* Hóspede
+* Funcionário
 * Estadia
 * Quarto
 * Reserva
@@ -51,3 +51,11 @@ A aplicação implementa:
   * Apache NetBeans
   * PostgreSQL
   * Driver JDBC
+
+## Autores
+ * Maria Isabel de Moraes da Silva
+ * Mariana Romanin Mendes
+
+_Disciplina: Banco de Dados I | Professora: Rebeca Schroeder Freitas | 2025_
+
+
