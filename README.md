@@ -1,6 +1,7 @@
-# Projeto Final de Banco de Dados
+# Sistema de Hotel
+> Projeto Final da disciplina de Banco de Dados I, utilizando JDBC e PostgreSQL.
 
-## Sistema de Hotel
+## Sumário
 
 Planeja-se criar um sistema de um hotel, focado nas operações diárias de
 hospedagem, reservas, serviços e pagamentos. Sabe-se que os funcionários possuem seu
@@ -28,4 +29,25 @@ assim, finalizar sua estadia.
 
 ## Aplicação sobre o BD Relacional
 Por fim, devemos utilizar uma API Relacional para criar uma aplicação sobre o BD relacional proposto. 
-Usamos 5 tabelas relacionadas: Estadia, Hospede, Funcionario, Reserva e Quarto.   
+
+### Funcionalidades
+A aplicação implementa:
+* Inserir tuplas em todas as tabelas usadas
+* Remover tuplas em todas as tabelas usadas
+* Consultar com JOIN entre tabelas relacionadas
+* Consulta com subconsulta + agregação
+* Menu interativo pelo terminal
+ 
+### Tabelas usadas
+* Hospede
+* Funcionario
+* Estadia
+* Quarto
+* Reserva
+
+### Tecnologias usadas
+  * Java
+  * JDBC (Java Database Connectivity)
+  * Apache NetBeans
+  * PostgreSQL
+  * Driver JDBC
