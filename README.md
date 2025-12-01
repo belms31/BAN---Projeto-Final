@@ -28,4 +28,4 @@ assim, finalizar sua estadia.
 
 ## Aplicação sobre o BD Relacional
 Por fim, devemos utilizar uma API Relacional para criar uma aplicação sobre o BD relacional proposto. 
-Usamos 5 tabelas relacionadas: Estadia, Hospede, Funcionario, Reserva e Quarto.
+Usamos 5 tabelas relacionadas: Estadia, Hospede, Funcionario, Reserva e Quarto.   
