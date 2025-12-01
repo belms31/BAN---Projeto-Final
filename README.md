@@ -24,7 +24,7 @@ valor da estadia. O cliente pode escolher a forma de pagamento (débito, crédit
 assim, finalizar sua estadia.
 
 ## Esquema Conceitual
-
+![Esquema Conceitual] (./ban.png)
 ## Esquema Lógico Relacional
 
 ## Aplicação sobre o BD Relacional
