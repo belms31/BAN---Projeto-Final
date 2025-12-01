@@ -25,6 +25,7 @@ assim, finalizar sua estadia.
 
 ## Esquema Conceitual
 ![Esquema Conceitual] (./ban.png)
+
 ## Esquema Lógico Relacional
 
 ## Aplicação sobre o BD Relacional
