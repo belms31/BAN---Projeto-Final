@@ -24,7 +24,9 @@ valor da estadia. O cliente pode escolher a forma de pagamento (débito, crédit
 assim, finalizar sua estadia.
 
 ## Esquema Conceitual
-![Esquema Conceitual] (./ban.png)
+O diagrama a seguir representa visualmente a descrição dada. Estão presentes entidades, relacionamentos, atributos, generalização/especialização e entidade associativa.
+
+<img src="./ban.png" alt="Imagem do Banco">
 
 ## Esquema Lógico Relacional
 
