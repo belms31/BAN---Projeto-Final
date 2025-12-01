@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/home/mari/NetBeansProjects/SistemaHotelAPI/src/connection/Conexao.java</file>
+            <file>file:/home/mari/NetBeansProjects/SistemaHotelAPI/src/app/Main.java</file>
+            <file>file:/home/mari/NetBeansProjects/SistemaHotelAPI/src/model/Funcionario.java</file>
+            <file>file:/home/mari/NetBeansProjects/SistemaHotelAPI/src/model/Hospede.java</file>
+            <file>file:/home/mari/NetBeansProjects/SistemaHotelAPI/src/model/Quarto.java</file>
+            <file>file:/home/mari/NetBeansProjects/SistemaHotelAPI/src/model/Estadia.java</file>
+            <file>file:/home/mari/NetBeansProjects/SistemaHotelAPI/src/model/Reserva.java</file>
+            <file>file:/home/mari/NetBeansProjects/SistemaHotelAPI/src/dao/FuncionarioDAO.java</file>
+            <file>file:/home/mari/NetBeansProjects/SistemaHotelAPI/src/dao/HospedeDAO.java</file>
+            <file>file:/home/mari/NetBeansProjects/SistemaHotelAPI/src/dao/QuartoDAO.java</file>
+            <file>file:/home/mari/NetBeansProjects/SistemaHotelAPI/src/dao/EstadiaDAO.java</file>
+            <file>file:/home/mari/NetBeansProjects/SistemaHotelAPI/src/dao/ReservaDAO.java</file>
+        </group>
+    </open-files>
+</project-private>
