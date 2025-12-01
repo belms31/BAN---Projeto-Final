@@ -12,7 +12,7 @@ precisa limpar quartos, visto que há outras áreas de hotel as quais precisam s
 
 Já um hóspede, registrado pelo seu cpf e é necessário saber seu nome, endereço e
 telefone, pode reservar uma estadia - as quais podem ser reservadas por apenas um
-hóspede e podem alocar um ou mais quartos - contendo    data de entrada e de saída, além
+hóspede e podem alocar um ou mais quartos - contendo data de entrada e de saída, além
 de quantas pessoas irão ficar em cada quarto.
 
 O hotel possui vários tipos de quartos (individual, Triplo, Suíte, entre outros), que
